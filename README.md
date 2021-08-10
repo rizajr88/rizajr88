@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rizajr88
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning QA and Machine Learning 
+- 🌱 I’m currently learning QA and Data Analysis
 - 💞️ I’m like gym
 
 <!---
